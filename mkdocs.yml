@@ -1,0 +1,4 @@
+site_name: Auburn Robotics Wiki
+site_url: https://example.com
+theme:
+  name: material
