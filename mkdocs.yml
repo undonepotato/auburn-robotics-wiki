@@ -1,5 +1,80 @@
 site_name: Auburn Robotics Wiki
 site_url: https://auburn-robotics-wiki.pages.dev
-repo_url: https://github.com/undonepotato/auburn-robotics-wiki
+# repo_url: https://github.com/undonepotato/auburn-robotics-wiki
+edit_uri: https://github.com/undonepotato/auburn-robotics-wiki/edit/main/docs/
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - toc.follow
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - navigation.footer
+    - content.action.edit
+  icon:
+    edit: material/pencil
+    view: material/eye
+  font:
+    text: IBM Plex Sans
+    code: false
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - search
+  - git-authors
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
+markdown_extensions:
+  - abbr
+  - admonition
+  - footnotes
+  - tables
+  - pymdownx.betterem
+  - pymdownx.blocks.caption
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx-inline
+      anchor_linenums: true
+      use_pygments: true
+      pygments_lang_class: true
+      auto_title: true
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - toc:
+      permalink: true
+extra:
+  analytics:
+    provider: google
+    property: G-BMFXD4Z82T
+  consent:
+    title: Cookies
+    description: >-
+      This site uses cookies to recognize and save repeated visits and
+      preferences. Analytics are also gathered to see what is most effective and
+      widely used, which helps make the wiki better!
+    actions:
+      - accept
+      - reject
+      - manage
+copyright: undefined

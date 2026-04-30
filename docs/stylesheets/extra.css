@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Monaspace Neon";
+  src: url("/static/MonaspaceNeon.woff2") format("woff2");
+  font-weight: 200 800;
+  font-display: swap;
+}
+
+:root {
+  --md-code-font: "Monaspace Neon";
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-fg-color: #e7e8eb;
+  --md-default-bg-color: #1a1c22;
+  --md-primary-fg-color: #050505;
+  --md-accent-fg-color: #ff8826;
+
+  /* used in headings */
+  --md-default-fg-color--light: #e7e8eb;
+
+  /* active in nav bar and table of contents */
+  --md-typeset-a-color: var(--md-accent-fg-color);
+
+  --custom-muted-headings: #d0d1d2;
+}
+
+.md-content :is(h1, h2, h4, h5, h6) {
+  font-weight: 600;
+}
+
+.md-content h1 {
+  font-size: 36px;
+  margin-block-end: 30px;
+}
+
+.md-content h2 {
+  font-size: 24px;
+}
+
+.md-content ul li,
+.md-content ol li {
+  margin-top: 0.15em;
+  margin-bottom: 0.15em;
+}
