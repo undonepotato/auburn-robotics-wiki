@@ -1,9 +1,10 @@
 # Welcome
-An experimental knowledge retention project. This is meant to hopefully combat multiple problems:
+Hi! This is the Auburn Robotics Wiki, meant as an internal project to compile knowledge across teams and for the future of AHS robotics. For more, read the [about section](about.md)!
 
-1. New team members have a steep technical learning curve when they first get on the team. Right now, this is remedied by other builders, coders, or drivers helping them along, but this can often lead to gaps in knowledge and is entirely dependent on the skill of their mentors and the degree to which they seek this out.
-2. When members leave the robotics team, the experience that they've gained over their years largely leaves with them. Little is retained unless they specifically teach it to the newer members.
-3. Communication gaps exist between teams even for information that they want to share with each other or that seems obvious to some teams. This can serve as a backup for those situations.
+This is an internal knowledgebase; anyone at Auburn is [welcome to contribute](https://github.com/undonepotato/auburn-robotics-wiki)! If you're an outside reader that wants to help, open an issue on the GitHub.
 
-So try reading or writing some articles on [hardware](Hardware/intro-to-vex-hardware.md), [software](Software/intro-to-vex-programming.md), or [driving](Driving/intro-to-vex-driving.md)!
+![VEX Override field side view](images/override-field-side.png)
+/// caption
+VEX Override 2026-2027
+///
 
