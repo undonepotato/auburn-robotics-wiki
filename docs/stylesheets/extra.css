@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Monaspace Neon";
-  src: url("/static/MonaspaceNeon.woff2") format("woff2");
-  font-weight: 200 800;
+  src: url("../static/MonaspaceNeon.woff2") format("woff2");
+  font-weight: 400;
   font-display: swap;
 }
 
@@ -41,4 +41,14 @@
 .md-content ol li {
   margin-top: 0.15em;
   margin-bottom: 0.15em;
+}
+
+.md-typeset .md-button {
+  color: var(--md-default-fg-color);
+}
+
+.md-content code {
+  /* we disable ligatures for practical reasons: new programmers
+  may not understand how to type the characters shown */
+  font-feature-settings: "calt" 1;
 }

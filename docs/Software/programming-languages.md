@@ -78,16 +78,3 @@ The most common language among high-performing VEX teams, as well as the most co
     This section requires further content.
 
 Rust is less commonly used among VEX teams, but the open-source `vexide` project enables use of the language. In the wider developer community, it is generally considered as powerful as C++ but also much safer in terms of memory usage.
-
-```py
-print("hello world!")
-my_list = []
-for i in range(40):
-    my_list.append(i ** 2 / 34)
-    my_list.reverse()
-print(my_list)
-```
-```
-mi
-m
-```
