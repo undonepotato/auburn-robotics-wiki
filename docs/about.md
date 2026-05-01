@@ -4,4 +4,4 @@ An experimental knowledge retention project. This is meant to hopefully combat m
 2. When members leave the robotics team, the experience that they've gained over their years largely leaves with them. Little is retained unless they specifically teach it to the newer members.
 3. Communication gaps exist between teams even for information that they want to share with each other or that seems obvious to some teams. This can serve as a backup for those situations.
 
-So try reading or writing some articles on [hardware](Hardware/intro-to-vex-hardware.md), [software](Software/intro-to-vex-programming.md), or [driving](Driving/intro-to-vex-driving.md)!
+So try reading or writing some articles on [hardware](Hardware%20and%20Building/intro-to-vex-hardware.md), [software](Software%20and%20Programming/intro-to-vex-programming.md), or [driving](Driving%20and%20Strategy/intro-to-vex-driving.md)!
