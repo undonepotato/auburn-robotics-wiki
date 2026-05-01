@@ -77,6 +77,10 @@ extra:
       - accept
       - reject
       - manage
+  social:
+    - icon: fontawesome/brands/github
+      name: Auburn Robotics Wiki repo
+      link: https://github.com/undonepotato/auburn-robotics-wiki
 copyright:
   This wiki is licensed under a <a id="copyright-notice"
   href=https://creativecommons.org/licenses/by-sa/4.0/>Creative Commons
