@@ -1,4 +1,4 @@
-# Hi!
+# Welcome
 An experimental knowledge retention project. This is meant to hopefully combat multiple problems:
 
 1. New team members have a steep technical learning curve when they first get on the team. Right now, this is remedied by other builders, coders, or drivers helping them along, but this can often lead to gaps in knowledge and is entirely dependent on the skill of their mentors and the degree to which they seek this out.
