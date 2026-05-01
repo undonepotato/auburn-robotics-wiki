@@ -79,3 +79,11 @@
 .md-content .md-path__link:hover {
   border-block-end: 1px solid var(--md-typeset-a-color);
 }
+
+#copyright-notice {
+  color: var(--md-accent-fg-color);
+}
+
+#copyright-notice:hover {
+  border-block-end: 1px solid var(--md-typeset-a-color);
+}
