@@ -4,7 +4,7 @@ The most common programming languages used in VEX are block code, Python, and C/
 ## Blocks
 Block code is by far the easiest to get started with, and most competitors have some understanding of how block code works. Though wider community support is lacking and block code can become cumbersome for larger projects, you won’t find a faster development experience anywhere.
 
-In VEX, the environment is offered via VEXCode Blocks, available on Windows, Mac, iPadOS, Android, and the Web (for Windows, Mac, and ChromeOS).
+In VEX, the environment is offered via [VEXCode Blocks](https://www.vexrobotics.com/vexcode/blocks), available on Windows, Mac, iPadOS, Android, and the Web (for Windows, Mac, and ChromeOS).
 
 ### Features
 * Incredibly accessible; generally editable by everyone on the team if necessary.

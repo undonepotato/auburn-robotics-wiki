@@ -16,7 +16,22 @@
   --md-accent-fg-color: #ff8826;
 
   /* used in headings */
-  --md-default-fg-color--light: #e7e8eb;
+  --md-default-fg-color--light: var(--md-default-fg-color);
+
+  /* active in nav bar and table of contents */
+  --md-typeset-a-color: var(--md-accent-fg-color);
+
+  --custom-muted-headings: #d0d1d2;
+}
+
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #f6f7f9;
+  --md-default-fg-color: #1a1d23;
+  --md-primary-fg-color: #050505;
+  --md-accent-fg-color: #b35000; /* adjusted for contrast */
+
+  /* used in headings */
+  --md-default-fg-color--light: var(--md-default-fg-color);
 
   /* active in nav bar and table of contents */
   --md-typeset-a-color: var(--md-accent-fg-color);
@@ -51,4 +66,16 @@
   /* we disable ligatures for practical reasons: new programmers
   may not understand how to type the characters shown */
   font-feature-settings: "calt" 1;
+}
+
+.md-content article a:not(.md-icon) {
+  border-block-end: 1px solid var(--md-typeset-a-color);
+}
+
+.md-content .md-path__link {
+  color: var(--md-accent-fg-color);
+}
+
+.md-content .md-path__link:hover {
+  border-block-end: 1px solid var(--md-typeset-a-color);
 }
