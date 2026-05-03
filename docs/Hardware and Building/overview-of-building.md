@@ -1,0 +1,2 @@
+# Overview of VEX Building
+Building in VEX V5 is so important because it is the foundation that everything else depends on. No matter how good your strategy or programming is, it won’t matter if the robot isn’t strong, precise, and reliable. A solid build allows the robot to move smoothly, handle game elements consistently, and survive the stress of competition. It also makes it easier for programmers and drivers to succeed because the robot performs the way they expect. Without a good build, the rest of the team’s work can’t be fully effective.
