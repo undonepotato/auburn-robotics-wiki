@@ -54,7 +54,7 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
 plugins:
   - search
   - git-authors
