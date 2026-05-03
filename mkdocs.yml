@@ -2,6 +2,23 @@ site_name: Auburn Robotics Wiki
 site_url: https://auburn-robotics-wiki.pages.dev
 # repo_url: https://github.com/undonepotato/auburn-robotics-wiki
 edit_uri: https://github.com/undonepotato/auburn-robotics-wiki/edit/main/docs/
+
+nav:
+  - Welcome: index.md
+  - About: about.md
+  - Design:
+      - Intro to VEX Design: design/intro-to-vex-design.md
+  - Hardware and Building:
+      - Intro to VEX Building: building/intro-to-vex-building.md
+      - Building Habits and Techniques: building/building-habits.md
+  - Software and Programming:
+      - Intro to VEX Programming: programming/intro-to-vex-programming.md
+      - Programming Languages: programming/programming-languages.md
+  - Driving and Strategy:
+      - Intro to VEX Driving: driving/intro-to-vex-driving.md
+  - Documentation and Notebooking:
+      - Intro to VEX Notebooking: notebooking/intro-to-vex-notebooking.md
+
 theme:
   name: material
   features:
