@@ -94,3 +94,5 @@ You will notice teams run all omnis and others run omnis with traction wheels. T
 * Tractions: you will be less vulnerable to pushing sideways, you will have a consistent turning circle, and you will have more consistent autos.
 
 * Turning center: turning center is the center point your drive turns around. On omnis this will be determined by your center of gravity (cog) and how many wheels you have. Due to it being affected by weight, grabbing elements can change your turning center. On traction wheels, it's determined by the location of the tractions. So I recommend putting your tractions in the middle.
+
+By Harrison Elkins
