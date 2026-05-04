@@ -6,6 +6,7 @@ edit_uri: https://github.com/undonepotato/auburn-robotics-wiki/edit/main/docs/
 nav:
   - Welcome: index.md
   - About: about.md
+  - VEX V5 Crash Course: vex-v5-crash-course.md
   - Design:
       - Drivetrain Design: design/drivetrain-design.md
   - Hardware and Building:
