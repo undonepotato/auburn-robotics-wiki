@@ -7,18 +7,16 @@ nav:
   - Welcome: index.md
   - About: about.md
   - Design:
-      - Intro to VEX Design: design/intro-to-vex-design.md
       - Drivetrain Design: design/drivetrain-design.md
   - Hardware and Building:
       - Intro to VEX Building: building/intro-to-vex-building.md
       - Building Habits and Techniques: building/building-habits.md
   - Software and Programming:
-      - Intro to VEX Programming: programming/intro-to-vex-programming.md
       - Programming Languages: programming/programming-languages.md
   - Driving and Strategy:
       - Intro to VEX Driving: driving/intro-to-vex-driving.md
   - Documentation and Notebooking:
-      - Intro to VEX Notebooking: notebooking/intro-to-vex-notebooking.md
+      - Placeholder: placeholder-coming-soon.md
 
 theme:
   name: material
