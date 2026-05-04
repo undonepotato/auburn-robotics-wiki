@@ -2,7 +2,8 @@
     "conventionalCommits.scopes": [
         "meta",
         "design",
-        "toplevel"
+        "toplevel",
+        "build"
     ],
     "cSpell.words": [
         "drivetrains",

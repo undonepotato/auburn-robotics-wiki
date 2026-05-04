@@ -20,6 +20,11 @@ A screw joint's purpose is to replace the use of an axle. Screw joints are extre
 Nylon screws and nuts are extremely useful in weight saving. Weight saving is such an important part in VEX building because it makes your robot lighter and faster. You want to put nylon screws and nuts in low-stress areas on your robots such as bearings or structure. You do not want them on parts that will be in constant contact or under stress. Since they are nylon, which are plastic, they will break very easily. I do not recommend putting them in hard to reach spots because if they were to break it's going to be a pain to replace.
 
 ## Custom Plastic
+![A rectangular piece of plastic in CAD with anime girls on it](../assets/images/building/building-habits.md/image.png)
+/// caption
+Plastic in CAD, by Harrison Elkins.
+///
+
 Being able to use plastic is very helpful for building. Unlike previous seasons where teams were allowed one 12"x24" sheet of plastic to use, now you may only use 12 4" x 8" pieces. You can make custom designs and parts out of plastic which is very beneficial because it opens the team's creativity and freedom of design. If you are new to building and have never made plastic parts before, I highly suggest CADing out your parts. This will reduce your mistakes and make your parts cleaner in the end. Once you design them via CAD, you can either print it out on paper or 3d print the part to trace onto the plastic to cut out. To actually make the part, it will depend on the material. [Delrin](https://en.wikipedia.org/wiki/Polyoxymethylene) is a very clean plastic to use and a lot of high level teams use it. The only con with Delrin is you can NOT use tin snips to cut. Delrin cracks and shatters very easily. To cut Delrin, you will need a spinning blade such as a Dremel or bandsaw. On the other hand, [polycarbonate](https://en.wikipedia.org/wiki/Polycarbonate) *can* be cut with tin snips. It also does not crack or shatter, only bends. I recommend polycarb for new teams until they are familiar with how to make plastic parts.
 
 ## Loctite
