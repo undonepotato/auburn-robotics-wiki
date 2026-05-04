@@ -58,7 +58,10 @@ extra_css:
   - assets/stylesheets/extra.css
 plugins:
   - search
-  - git-authors
+  - git-committers:
+      repository: undonepotato/auburn-robotics-wiki
+      branch: main
+      enabled: !ENV [ARW_COMMITTERS, false]
   - git-revision-date-localized:
       enable_creation_date: true
       fallback_to_build_date: true
