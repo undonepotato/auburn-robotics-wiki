@@ -35,6 +35,9 @@ The match momentarily stops while the Referees score the Autonomous Bonus and de
 #### Autonomous Win Point
 Completing a specific set of tasks together as an Alliance (the list varies by game and year) yields an Autonomous Win Point for the alliance. It is possible for both teams in a match to get the Autonomous Win Point, but only one can get the Autonomous Bonus. Win Points are useful (see [Win Points and Team Rankings](#win-points-and-team-rankings) below) in Qualification Matches and greatly affect your ranking for Alliance Selection, but are not a factor in Elimination Matches.
 
+!!! tip "Importance of AWP"
+    AWP is essential for ranking in qualification matches; it gives an incredible boost at tournaments where no one has AWP, and is basically required at tournaments where teams do have AWP. **Consistently winning AWP is equivalent to winning 1.5 times your wins and recovering half your losses.**
+
 *Solo* AWP, referred to as "SAWP", is any robot program that can get the Autonomous Win Point by itself with minimal interaction from the Alliance team.
 
 The proliferation of AWP among teams varies. In Alabama, it is relatively common for no teams to have SAWP until mid-season, and many teams never achieve SAWP. Successful implementation of SAWP is one of the most impactful contributions a programmer can make to a team.
@@ -80,7 +83,7 @@ Unlike in IQ, robots are made of metal. Groundbreaking stuff. There are two type
 ///
 
 ### Modifications
-V5 allows modifications to almost all non-electrical parts and prohibits modifications to almost all electrical parts. This means that machinery and tools are regularly used to cut or bend metal pieces and shape plastic in desired ways.
+V5 allows modifications to almost all non-electrical parts and prohibits modifications to almost all electrical and pneumatic parts. This means that machinery and tools are regularly used to cut or bend metal pieces and shape plastic in desired ways.
 
 ### Custom Plastic
 V5 allows a limited amount of custom plastic on robots. While this limit was much more generous in past years, teams are now limited to 12 pieces, each smaller than 4" x 8" x 0.070" (see rule <R24\>). It is illegal to chemically alter plastic from the allowed list in <R24\>.
