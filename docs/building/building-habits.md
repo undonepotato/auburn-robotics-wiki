@@ -25,7 +25,17 @@ Nylon screws and nuts are extremely useful in weight saving. Weight saving is su
 Plastic in CAD, by Harrison Elkins.
 ///
 
-Being able to use plastic is very helpful for building. Unlike previous seasons where teams were allowed one 12"x24" sheet of plastic to use, now you may only use 12 4" x 8" pieces. You can make custom designs and parts out of plastic which is very beneficial because it opens the team's creativity and freedom of design. If you are new to building and have never made plastic parts before, I highly suggest CADing out your parts. This will reduce your mistakes and make your parts cleaner in the end. Once you design them via CAD, you can either print it out on paper or 3d print the part to trace onto the plastic to cut out. To actually make the part, it will depend on the material. [Delrin](https://en.wikipedia.org/wiki/Polyoxymethylene) is a very clean plastic to use and a lot of high level teams use it. The only con with Delrin is you can NOT use tin snips to cut. Delrin cracks and shatters very easily. To cut Delrin, you will need a spinning blade such as a Dremel or bandsaw. On the other hand, [polycarbonate](https://en.wikipedia.org/wiki/Polycarbonate) *can* be cut with tin snips. It also does not crack or shatter, only bends. I recommend polycarb for new teams until they are familiar with how to make plastic parts.
+Being able to use plastic is very helpful for building; you can make custom designs and parts that open creativity and freedom of design. Unlike previous seasons, where teams were allowed one 12" x 24" sheet of plastic to use, plastic is limited to 12 individual 4" x 8" pieces. If you are new to building and have never made plastic parts before, I highly suggest CADing out your parts. This will reduce your mistakes and make your parts cleaner in the end. Once you design them via CAD, you can either print it out on paper or 3d print the part to trace onto the plastic to cut out. To actually make the part, it will depend on the material. 
+
+* [Delrin](https://en.wikipedia.org/wiki/Polyoxymethylene) is a very clean plastic to use; many high-level teams use it. The only con with Delrin is you can NOT use tin snips to cut. Delrin cracks and shatters very easily. To cut Delrin, you will need a spinning blade such as a Dremel or bandsaw.
+* [Polycarbonate](https://en.wikipedia.org/wiki/Polycarbonate) *can* be cut with tin snips. It also does not crack or shatter, only bends. I recommend polycarb for new teams until they are familiar with how to make plastic parts.
+
+|               | Durability | Impact Resistance | Cutting Difficulty | Aesthetics |
+| ------------- | ---------- | ----------------- | ------------------ | ---------- |
+| Delrin        | Worse      | Worse             | Harder*            | Better     |
+| Polycarbonate | Better     | Better            | Easier             | Worse      |
+
+**Unless you have a laser cutter.*
 
 ## Loctite
 Loctite is an aftermarket adhesive which tightens a screw in a threaded part. Standoffs are the most common use for Loctite. Standoffs don't have any locking function in them. So, because of this the screws come lose very easily. I highly recommend using Loctite on screws with standoffs on your drive. The constant shaking and vibration on your drive will make your screws come loose. So use Loctite when needed.
