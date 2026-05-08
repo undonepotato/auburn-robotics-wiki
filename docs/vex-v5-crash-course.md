@@ -4,7 +4,7 @@ Specifically for former IQ competitors.
 ## Matches
 Watch this [Q212 Design Division from 2026 Worlds](https://worlds.overclock.co/event/RE-V5RC-26-4025/division/9/stream?match=Qualifier+%23212&day=2026-04-23&t=24235) match for a good example of a representative V5 match, here including 36830B.
 
-Matches in VEX V5 are 2v2, with a Red Team competing against a Blue Team. Unlike IQ, the most important metric for rankings is not how many points you score, but whether you win a match or not. A pairing of two Teams to compete in a match is called an Alliance.
+Matches in VEX V5 are 2v2, with a Red Alliance competing against a Blue Alliance. Unlike IQ, the most important metric for rankings is not how many points you score, but whether you win a match or not. A pairing of two Teams to compete in a match is called an Alliance.
 
 ### The Autonomous Period
 At the start of every match, there is a 15-second Autonomous Period that is scored separately from the rest of the match to determine the winner of the Autonomous Bonus and Autonomous Win Point. In this period of the match, there can be no Driver control of the robot, and robots must move on their own to score points.
