@@ -42,11 +42,13 @@ Finally, there is the shutoff valve, which shuts off airflow when closed. This i
 ## Repair
 Unfortunately, Solenoids and V5 parts as a whole have a tendency to break. Because of how often pneumatics break and how many variations of breakage there are, it is actually quite easy to repair them. **NEVER THROW OUT A BROKEN PNEUMATIC!** We have a dusty box we throw them into in the cabinet.  
 
-The solenoid has basically two halves beyond the original two halves we discuss earlier; those are the air half and the electronic half. These two halves can be disconnected by unscrewing the screws found at the top and removing them, leaving you with an Air Block and two wire pieces. It's important to note that the orientation when they are being reattached does not matter, because the original designer before VEX purchased the patent was actually pretty smart. The main ways a pneumatic can break are the following: 
+The solenoid has basically two halves beyond the original two halves we discuss earlier; those are the air half and the electronic half. These two halves can be disconnected by unscrewing the screws found at the top and removing them, leaving you with an Air Block and two wire pieces. It's important to note that the orientation when they are being reattached does not matter, because the original designer before VEX purchased the patent was actually pretty smart. The main ways a pneumatic can break are the following:  
+
 * Exhaust becomes permanently open (Air block
 becomes unusable without deeper repair)
 * A port on the upper half becomes
 damaged or snapped off, or part of it gets crushed
+
 A solenoid can easily be repaired by removing the damaged portion and replacing it with a working part from either the spare parts from the other broken solenoids or a part removed directly from another broken solenoid. It's really quite simple: it's 3 screws max, and it's rather quite fun to do.
 ![A solenoid with arrows pointing to the screws and halves. And an image saying "an incel (not me) figured this out btw"](../assets/images/building/pneumatics.md/image-5.png)
 
