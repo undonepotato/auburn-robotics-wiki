@@ -1,7 +1,7 @@
 site_name: Auburn Robotics Wiki
 site_url: https://auburn-robotics-wiki.pages.dev
-# repo_url: https://github.com/undonepotato/auburn-robotics-wiki
-edit_uri: https://github.com/undonepotato/auburn-robotics-wiki/edit/main/docs/
+# repo_url: https://github.com/byhaydenkwon/auburn-robotics-wiki
+edit_uri: https://github.com/byhaydenkwon/auburn-robotics-wiki/edit/main/docs/
 
 nav:
   - Welcome: index.md
@@ -60,7 +60,7 @@ extra_css:
 plugins:
   - search
   - git-committers:
-      repository: undonepotato/auburn-robotics-wiki
+      repository: byhaydenkwon/auburn-robotics-wiki
       branch: main
       enabled: !ENV [ARW_COMMITTERS, false]
   - git-revision-date-localized:
@@ -105,7 +105,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       name: Auburn Robotics Wiki repo
-      link: https://github.com/undonepotato/auburn-robotics-wiki
+      link: https://github.com/byhaydenkwon/auburn-robotics-wiki
 copyright:
   This wiki is licensed under a <a id="copyright-notice"
   href=https://creativecommons.org/licenses/by-sa/4.0/>Creative Commons
