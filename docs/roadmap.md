@@ -4,6 +4,8 @@ Pages that have been requested or those that warrant creation at some point. If 
 ## Design
 ## Building
 * Advanced Building Techniques
+* Pneumatics
+* Building Structure
 ## Programming
 * Monte Carlo Localization (MCL)
 * Introduction to VEX V5 Programming
